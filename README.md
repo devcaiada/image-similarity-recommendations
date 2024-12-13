@@ -188,11 +188,11 @@ print('Imagens recomendadas:', recommended_labels)
 
 - Coloque as imagens das quatro classes nas respectivas pastas dentro de **data/**.
 
-![relogio]()
+![relogio](https://github.com/devcaiada/image-similarity-recommendations/blob/main/assets/rel%C3%B3gio.png?raw=true)
 
 - Coloque a imagem que você deseja analisar na pasta **input** com o nome **sua_imagem.jpg**.
 
-![sua_imagem]()
+![sua_imagem](https://github.com/devcaiada/image-similarity-recommendations/blob/main/input/sua_imagem.jpg?raw=true)
 
 ### 2. Extrair Características:
 
@@ -214,9 +214,11 @@ python recommend.py
 
 ### 5. As imagens recomendadas serão copiadas para a pasta output e as classes recomendadas serão exibidas no terminal.
 
-![resultado]()
+![resultado](https://github.com/devcaiada/image-similarity-recommendations/blob/main/assets/resultado.png?raw=true)
 
-![output]()
+<br></br>
+
+![output](https://github.com/devcaiada/image-similarity-recommendations/blob/main/assets/output.png?raw=true)
 
 ## Contribuição <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
